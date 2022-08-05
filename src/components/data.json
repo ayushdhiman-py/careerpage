@@ -1,0 +1,51 @@
+[
+    {
+        "jobid":"1",
+        "jobname": "Software Programmer",
+        "jobdesc": "Making new programs",
+        "applyBy": "10-08-2022",
+        "eligibility": "a computer science grad"
+    },
+    {
+        "jobid":"2",
+        "jobname": "Analyst",
+        "jobdesc": "Working with code errors",
+        "applyBy": "12-10-2022",
+        "eligibility": "a computer science grad"
+    },
+    {
+        "jobid":"3",
+        "jobname": "Designer",
+        "jobdesc": "Working with UI",
+        "applyBy": "14-09-2022",
+        "eligibility": "a computer science grad"
+    },
+    {
+        "jobid":"4",
+        "jobname": "Robotics",
+        "jobdesc": "Should have knowledge of ML/AI",
+        "applyBy": "19-11-2022",
+        "eligibility": "a computer science grad"
+    },
+    {
+        "jobid":"5",
+        "jobname": "UI Designer",
+        "jobdesc": "Should have knwoledge of UI/UX",
+        "applyBy": "22-12-2022",
+        "eligibility": "a computer science grad"
+    },
+    {
+        "jobid":"6",
+        "jobname": "Management",
+        "jobdesc": "5+ years of experience",
+        "applyBy": "11-12-2022",
+        "eligibility": "a computer science grad"
+    },
+    {
+        "jobid":"7",
+        "jobname": "Staff Analyst",
+        "jobdesc": "B.tech/BCA/MCA grad",
+        "applyBy": "11-12-2022",
+        "eligibility": "a computer science grad"
+    }
+]

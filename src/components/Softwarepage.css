@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+.maincard{
+    padding-top: 100px;
+    font-family: 'Oswald', sans-serif;  
+    background-color: rgb(238, 238, 238);
+    color: rgb(52, 52, 52);
+}
+
+.innercard{
+    box-shadow: 0px 0px 20px rgb(115, 115, 115);
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+    /* border: 1px solid red; */
+    background-color: white;
+
+}
+.jobname{
+    font-size: 1rem;
+    padding: 20px;
+    letter-spacing: 2px;    
+}
+.jobdesc{
+    font-size: 0.6rem;
+    padding: 20px;
+}
+.eligi{
+    text-transform: capitalize;
+    font-size: 0.6rem;
+    padding: 20px;
+}
+.lastdate{
+    font-size: 0.6rem;
+    padding: 20px;
+}
+.about{
+    font-size: 1.2rem;
+    padding: 20px;
+}
+.orgdesc{
+    padding: 20px;
+    border-left: 5px solid blue;
+    background-color: rgb(233, 233, 233);
+}
+.right{
+    position: relative;
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    right: 0px;
+    margin-bottom: 10px;
+    justify-content: flex-end;
+}
+.right>button{
+    margin-right: 10px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: blue;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
